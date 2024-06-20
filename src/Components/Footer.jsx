@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
       </div>
       <hr className='border border-black my-10'/>
-      <p className='text-center'>Copy Rights By <span className='fontCursive'>NXIOS</span>, All Reserved.</p>
+      <p className='text-center'>Copy Rights By <span className='fontCursive'>NIXOS</span>, All Reserved.</p>
     </div>
   )
 }
